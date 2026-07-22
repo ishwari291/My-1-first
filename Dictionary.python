@@ -1,0 +1,17 @@
+student-[
+
+"name": "Pranjal",
+
+"age":18,
+
+"course": "BScIT"
+
+}
+
+print("student Details:")
+
+print("Name:", student["Name"])
+
+print("Age:", student["age"])
+
+print("Course:", student["Course"])
